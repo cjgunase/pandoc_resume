@@ -12,22 +12,18 @@ Chathura Gunasekara
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2013 May - 2017 Spring (expected)
+:   **PhD, Computational Science & Engineering **; Michigan Technological University (Houghton, MI)
+    *Thesis title: Bioinformatics Tools and Algorithms for Gene Regulatory Network Inference*
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2006-2010
+:   **BS, Computational Physics**; University of Colombo (Sri Lanka)
+    *Course work in Computer Science, Physics, Mathematics*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Work Experience & Publications
 ----------
-
-**Your Most Recent Work Experience:**
+2013 - Present
+: **Graduate Research Assistant**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -37,8 +33,8 @@ links:
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
-
-**That Other Job You Had**
+2010 - 2013
+: **Software Engineer/Research Engineer**
 
 Also with a short description.
 
