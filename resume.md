@@ -27,22 +27,26 @@ Work Experience & Publications
 
 Currently Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data:
 
-* TF-miner [github Repo.](https://github.com/cjgunase/TF-miner)
+* [TF-miner](https://github.com/cjgunase/TF-miner)
 
 * [presentation](https://cjgunase.github.io/2016-04-30-nsf-bioinformatics-workshop/) at NSF Project/Bioinformatics Workshop @ Noble Foundation, Ardmore, Oklahoma.
 
-Developed, [Implemented](http://sys.bio.mtu.edu/motif/), [First author](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) of plant motif search algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.
+Other projects:
 
-[Co-authored](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/) an algorithm to infer hierachical gene regulatory network from gene expression data.
+* [Developed](github link), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) of plant motif search algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.
 
-[Contributer](https://github.com/cjgunase/myVisualizations/tree/master/circos), to Birch Genome publication
+* [Co-authored](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/) an algorithm to infer hierachical gene regulatory network from gene expression data.
 
-[Implemented](http://sys.bio.mtu.edu) and [Co-authored](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1) Poplar Gene Expression Pipeline web application.
+* [Implemented](http://sys.bio.mtu.edu) and [Co-authored](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1) Poplar Gene Expression Pipeline web application.
+
+* [Contributor](https://github.com/cjgunase/myVisualizations/tree/master/circos), to Birch Genome publication building a Circos Visualization
+
+
 
 
 : **2010 - 2013: Software Engineer/Research Engineer**
 
-Worked on a [collaborative project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy:
+Worked on a [collaborative research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy. Following are the list of publications I authored/contributed:
 
 * Develop algorithms and to implement using Java and web based technologies a Survailance platfrom to fuse data from multiple transponders such as AIS, RADAR sensors around Sri Lanken coast line.[First-Author](http://www.icter.org/conference/icter2012/paper/50)
 
@@ -50,7 +54,7 @@ Worked on a [collaborative project](http://www.vidusayura.org/?page_id=2) with U
 
 * Maritime Navigation Simulator Project, [Co-Author ICter 2012](http://www.icter.org/conference/icter2012/paper/31) for Simulating Narrow Channel Effect on Surge Motion of a Ship in a Virtual Environment
 
-* Undergraduate Research publication as [first author](Spatialized Real Time Auditory Interface for a Virtual Maritime Application) in 2010.
+* Undergraduate Research [Conference paper](http://www.icter.org/conference/archive2011/index.php/icter/ICTer2010/paper/view/65), Spatialized Real Time Auditory Interface for a Virtual Maritime Application in 2010.
 
 
 
