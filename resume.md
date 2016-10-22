@@ -22,21 +22,37 @@ Education
 
 Work Experience & Publications
 ----------
-2013 - Present
-: **Graduate Research Assistant**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+: **2013 - Present: Graduate Research Assistant**
 
-* First item
+Currently Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data:
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-2010 - 2013
-: **Software Engineer/Research Engineer**
+* TF-miner [github Repo.](https://github.com/cjgunase/TF-miner)
 
-Also with a short description.
+* [presentation](https://cjgunase.github.io/2016-04-30-nsf-bioinformatics-workshop/) at NSF Project/Bioinformatics Workshop @ Noble Foundation, Ardmore, Oklahoma.
+
+Developed, [Implemented](http://sys.bio.mtu.edu/motif/), [First author](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) of plant motif search algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.
+
+[Co-authored](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/) an algorithm to infer hierachical gene regulatory network from gene expression data.
+
+[Contributer](https://github.com/cjgunase/myVisualizations/tree/master/circos), to Birch Genome publication
+
+[Implemented](http://sys.bio.mtu.edu) and [Co-authored](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1) Poplar Gene Expression Pipeline web application.
+
+
+: **2010 - 2013: Software Engineer/Research Engineer**
+
+Worked on a [collaborative project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy:
+
+* Develop algorithms and to implement using Java and web based technologies a Survailance platfrom to fuse data from multiple transponders such as AIS, RADAR sensors around Sri Lanken coast line.[First-Author](http://www.icter.org/conference/icter2012/paper/50)
+
+* Maritime Navigation Simulator Project, [First-Author CGAT 2012, Thailand](http://www.cgames.com.sg/PriorYearsPaper2012.html), Low Cost 3D Immersive Telepresence for Survaillance, Planning, Maneuring : 3D-COP	10.5176/2251-1679_CGAT31. Computer Games, Multimedia & Allied Technology Conference 2012.
+
+* Maritime Navigation Simulator Project, [Co-Author ICter 2012](http://www.icter.org/conference/icter2012/paper/31) for Simulating Narrow Channel Effect on Surge Motion of a Ship in a Virtual Environment
+
+* Undergraduate Research publication as [first author](Spatialized Real Time Auditory Interface for a Virtual Maritime Application) in 2010.
+
+
 
 Technical Experience
 --------------------
