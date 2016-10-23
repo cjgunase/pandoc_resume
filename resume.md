@@ -13,17 +13,29 @@ Education
 ---------
 
 2013 May - 2017 Spring (expected)
-:   **PhD, Computational Science & Engineering **; Michigan Technological University (Houghton, MI)
-    *Thesis title: Bioinformatics Tools and Algorithms for Gene Regulatory Network Inference*
+:   **PhD, Computational Science & Engineering**; Michigan Technological University (Houghton, MI)
+    
+    *PhD Thesis title: Bioinformatics Tools and Algorithms for Gene Regulatory Network Inference*
+    
+    *GPA:3.85*
+    
+   |--------------------------:	|:----------------------------------------:	|
+   |     Statistical Methods    	|        Applied Regression Analysis       	|
+   |     Predictive Modeling    	|       Introduction to Data Science       	|
+   |         Data Mining        	|    Advanced Scripting and Programming    	|
+   | Bioinformatics Programming 	| Data Mining for Geo-spacial Applications 	|
+    
+    
 
 2006-2010
 :   **BS, Computational Physics**; University of Colombo (Sri Lanka)
-    *Course work in Computer Science, Physics, Mathematics*
+    
+    *Major in Physics with minor in Computer Science and Applied Mathematics*
 
 Work Experience & Publications
 ----------
 
-: **2013 - Present: Graduate Research Assistant**
+**Graduate Research Assistant : 2013 - Present**
 
 Currently Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data:
 
@@ -33,7 +45,7 @@ Currently Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/facult
 
 Other projects:
 
-* [Developed](github link), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) of plant motif search algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.
+* [Developed](https://github.com/cjgunase/exactSearch), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes. Our suffix tree based search algorithm can search for 100 degerate motifs in 35000 genes under 4 minutes!.
 
 * [Co-authored](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/) an algorithm to infer hierachical gene regulatory network from gene expression data.
 
@@ -44,7 +56,7 @@ Other projects:
 
 
 
-: **2010 - 2013: Software Engineer/Research Engineer**
+**Software Engineer/Research Engineer : 2010 - 2013**
 
 Worked on a [collaborative research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy. Following are the list of publications I authored/contributed:
 
