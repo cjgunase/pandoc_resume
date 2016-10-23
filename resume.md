@@ -18,15 +18,7 @@ Education
     *PhD Thesis title: Bioinformatics Tools and Algorithms for Gene Regulatory Network Inference*
     
     *GPA:3.85*
-    
-   |                            |                                           |
-   |--------------------------:	|:----------------------------------------:	|
-   |     Statistical Methods    	|        Applied Regression Analysis       	|
-   |     Predictive Modeling    	|       Introduction to Data Science       	|
-   |         Data Mining        	|    Advanced Scripting and Programming    	|
-   | Bioinformatics Programming 	| Data Mining for Geo-spacial Applications 	|
-    
-    
+       
 
 2006-2010
 :   **BS, Computational Physics**; University of Colombo (Sri Lanka)
