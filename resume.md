@@ -2,12 +2,9 @@ Chathura Gunasekara
 ============
 
 ----
-<p align="center">
-  <b>cjgunase@mtu.edu</b><br>
-  <b>906-231-3808</b>
-  <br>
-</p>
+->cjgunase@mtu.edu<-
 
+->906-231-3808<-
 ----
 
 Education
