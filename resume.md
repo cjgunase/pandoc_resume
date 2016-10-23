@@ -22,7 +22,7 @@ Education
 2006-2010
 :   **BS, Computational Physics**; University of Colombo (Sri Lanka)
     
-    *Major in Physics with minor in Computer Science and Applied Mathematics*
+    *Major in Computer Science with minor in Physics and Applied Mathematics*
 
 Projects, Work Experience & Publications
 ----------
