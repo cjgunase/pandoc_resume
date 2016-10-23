@@ -19,6 +19,7 @@ Education
     
     *GPA:3.85*
     
+   |                            |                                           |
    |--------------------------:	|:----------------------------------------:	|
    |     Statistical Methods    	|        Applied Regression Analysis       	|
    |     Predictive Modeling    	|       Introduction to Data Science       	|
