@@ -16,8 +16,6 @@ Education
 :   **PhD, Computational Science & Engineering**; Michigan Technological University (Houghton, MI)
     
     *PhD Thesis title: Bioinformatics Tools and Algorithms for Gene Regulatory Network Inference*
-    
-    *GPA:3.85*
        
 
 2006-2010
@@ -25,21 +23,22 @@ Education
     
     *Major in Physics with minor in Computer Science and Applied Mathematics*
 
-Work Experience & Publications
+Projects, Work Experience & Publications
 ----------
 
 **Graduate Research Assistant : 2013 - Present**
 
-Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/), conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data. Code and 
+_Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/), conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data._
 
 * [TF-miner](https://github.com/cjgunase/TF-miner)
 
 * My early [attempts](github repo) for this research was [presented](http://www.slideshare.net/secret/15sqXSMbpOHAOQ) at NSF Project/Bioinformatics Workshop @ Noble Foundation, Ardmore, Oklahoma.
 
-
-Other projects:
+* Pairwise analysis of Pathway - Transcription Factor gene expression data to find regulatory TF clusters.[Git](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
 
 * Currently implementing a [web](http://sys.bio.mtu.edu/cluster/index.php) based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways using novel pair-wise gene association methods such as Maximum Information Coefficient(MIC), Distance Correlation.
+
+_Other projects_
 
 * [Developed](https://github.com/cjgunase/exactSearch), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes. Our suffix tree based search algorithm can search for 100 degerate motifs in 35000 genes under 4 minutes!.
 
@@ -48,8 +47,6 @@ Other projects:
 * [Implemented](http://sys.bio.mtu.edu) and [Co-authored](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1) Poplar Gene Expression Pipeline web application.
 
 * [Contributor](https://github.com/cjgunase/myVisualizations/tree/master/circos), to Birch Genome publication building a Circos Visualization
-
-
 
 
 **Software Engineer/Research Engineer : 2010 - 2013**
@@ -65,24 +62,30 @@ Worked on a [collaborative research project](http://www.vidusayura.org/?page_id=
 * Undergraduate Research [Conference paper](http://www.icter.org/conference/archive2011/index.php/icter/ICTer2010/paper/view/65), Spatialized Real Time Auditory Interface for a Virtual Maritime Application in 2010.
 
 
-
-Technical Experience
+Technical Experience and Course work
 --------------------
+Predictive Modelling Fall 2014
+:   Optical Character recognision
 
-My Cool Side Project
+Data Science Fall 2014
+:   Keosera Document solutions Big Data Project
+
+Data Mining Spring 2015 Group Project
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
     * These items can also contain lists, but you need to mind the
       indentation levels in the markdown source.
     * Second item.
-
-Open Source
+    
+Data Mining for Geospatial Applications Fall 2015
 :   List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
     (with [link](http://nodejs.org)) which was actually totally
     your idea...
+
+
 
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
@@ -119,6 +122,3 @@ Extra Section, Call it Whatever You Want
 * Other sort of impressive-sounding thing you did
 
 ----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
