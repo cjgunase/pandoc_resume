@@ -1,7 +1,6 @@
 Chathura Gunasekara
 ============
 
-
 -------------------     ----------------------------
 2101 Woodmar Dr                     cjgunase@mtu.edu
 AptC Houghton,MI                        906-231-3808
