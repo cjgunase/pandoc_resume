@@ -2,11 +2,7 @@ Chathura Gunasekara
 ============
 
 ----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
+cjgunase@mtu.edu | 906-231-3808
 ----
 
 Education
@@ -30,13 +26,16 @@ Work Experience & Publications
 
 **Graduate Research Assistant : 2013 - Present**
 
-Currently Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data:
+Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/), conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data. Code and 
 
 * [TF-miner](https://github.com/cjgunase/TF-miner)
 
-* [presentation](https://cjgunase.github.io/2016-04-30-nsf-bioinformatics-workshop/) at NSF Project/Bioinformatics Workshop @ Noble Foundation, Ardmore, Oklahoma.
+* My early [attempts](github repo) for this research was [presented](http://www.slideshare.net/secret/15sqXSMbpOHAOQ) at NSF Project/Bioinformatics Workshop @ Noble Foundation, Ardmore, Oklahoma.
+
 
 Other projects:
+
+* Currently implementing a [web](http://sys.bio.mtu.edu/cluster/index.php) based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways using novel pair-wise gene association methods such as Maximum Information Coefficient(MIC), Distance Correlation.
 
 * [Developed](https://github.com/cjgunase/exactSearch), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes. Our suffix tree based search algorithm can search for 100 degerate motifs in 35000 genes under 4 minutes!.
 
