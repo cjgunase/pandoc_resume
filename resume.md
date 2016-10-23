@@ -3,8 +3,11 @@ Chathura Gunasekara
 
 -------------------     ----------------------------
 2101 Woodmar Dr                     cjgunase@mtu.edu
+
 Apt C Houghton, MI, USA                 906-231-3808 
 -------------------     ----------------------------
+
+---
 
 
 Education
@@ -36,9 +39,11 @@ _Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/
 
 * Currently implementing a [web](http://sys.bio.mtu.edu/cluster/index.php) based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways using novel pair-wise gene association methods such as Maximum Information Coefficient(MIC), Distance Correlation.
 
-_Other projects_
+_Past projects_
 
 * [Developed](https://github.com/cjgunase/exactSearch), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes. Our suffix tree based search algorithm can search for 100 degerate motifs in 35000 genes under 4 minutes!.
+
+* I configured, installed and developed Perl scripts for parsing the FASTQ files using open sourse tools for a genome browser to [visualize](https://blossom.ffr.mtu.edu/designindex2.php) RNA-seq and Ribo-seq of wild-type and STTM mutants. This browser provides information on global translation status and miRNA-directed translation inhibition, which is currently lacking in plants. This web portal make them available to the research community.
 
 * [Co-authored](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/) an algorithm to infer hierachical gene regulatory network from gene expression data.
 
