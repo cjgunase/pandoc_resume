@@ -13,7 +13,7 @@ Education
 2013 May - 2017 Spring (expected)
 :   **PhD, Computational Science & Engineering**; Michigan Technological University (Houghton, MI)
     
-    *PhD Thesis title: Bioinformatics Tools and Algorithms for Gene Regulatory Network Inference*
+    *PhD Thesis title: Bioinformatics Tools and Algorithms Development for Gene Regulatory Network Inference*
        
 
 2006-2010
@@ -36,7 +36,7 @@ _Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/
 
 * Currently implementing a [web](http://sys.bio.mtu.edu/cluster/index.php) based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways using novel pair-wise gene association methods such as Maximum Information Coefficient(MIC), Distance Correlation.
 
-_Past projects_
+_Completed projects_
 
 * [Developed](https://github.com/cjgunase/exactSearch), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes. Our suffix tree based search algorithm can search for 100 degerate motifs in 35000 genes under 4 minutes!.
 
@@ -66,25 +66,18 @@ Technical Experience and Recent Course work
 --------------------
 Data Science
 :   **Applied Predictive Modelling** Fall 2014
-
 :   **Introduction to Data Science** Fall 2014
-
 :   **Data Mining** Spring 2014
-
 :   **Data mining for geo spatial applications** Fall 2015
-
 :   **Machine Learning - Regression** Coursera Verified Certification (online)
 
 Statistics
 :   **Statistical Methods** Fall 2013
-
 :   **Regression Analysis** Spring 2013
-
 :   **Time series analysis and forcasting** Spring 2015
 
 Computer Science
 :   **Advanced Scripting and Programming** Fall 2015
-
 :   **Algorithmic Toolbox** Coursera Verified Certification (online)
 
 Bioinformatics
