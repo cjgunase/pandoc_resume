@@ -32,20 +32,20 @@ _Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/
 * [TF-miner](https://github.com/cjgunase/TF-miner)
 
 
-* My early [attempts](github repo) for this research was [presented](http://www.slideshare.net/secret/15sqXSMbpOHAOQ) at NSF Project/Bioinformatics Workshop @ Noble Foundation, Ardmore, Oklahoma.
+* Bayesian network to infer gene regulatory network [implementation](github repo) for this research was [presented](http://www.slideshare.net/secret/15sqXSMbpOHAOQ) at NSF Project/Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.
 
 
 * Pairwise analysis of Pathway - Transcription Factor gene expression data to find regulatory TF clusters.[Git](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
 
 
-* Currently implementing a [web](http://sys.bio.mtu.edu/cluster/index.php) based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways using novel pair-wise gene association methods such as Maximum Information Coefficient(MIC), Distance Correlation.
+* Currently implementing a [web](http://sys.bio.mtu.edu/cluster/index.php) based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways.
 
 _Completed projects_
 
-* [Developed](https://github.com/cjgunase/exactSearch), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes. Our suffix tree based search algorithm can search for 100 degerate motifs in 35000 genes under 4 minutes!.
+* [Developed](https://github.com/cjgunase/exactSearch), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.
 
 
-* I configured, installed and developed Perl scripts for parsing the FASTQ files using open sourse tools for a genome browser to [visualize](https://blossom.ffr.mtu.edu/designindex2.php) RNA-seq and Ribo-seq of wild-type and STTM mutants. This browser provides information on global translation status and miRNA-directed translation inhibition, which is currently lacking in plants. This web portal make them available to the research community.
+* I configured, installed and developed Perl scripts for parsing the FASTQ files using open sourse tools for a genome browser to [visualize](https://blossom.ffr.mtu.edu/designindex2.php) RNA-seq and Ribo-seq of wild-type and STTM mutants.
 
 
 * [Co-authored](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/) an algorithm to infer hierachical gene regulatory network from gene expression data.
@@ -54,9 +54,7 @@ _Completed projects_
 * [Implemented](http://sys.bio.mtu.edu) and [Co-authored](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1) Poplar Gene Expression Pipeline web application.
 
 
-* [Contributor](https://github.com/cjgunase/myVisualizations/tree/master/circos), to Birch Genome publication building a Circos Visualization
-
-
+* [Contributor](https://github.com/cjgunase/myVisualizations/tree/master/circos) to create a Circos Visualization of genomic data.
 
 
 
@@ -64,13 +62,13 @@ _Completed projects_
 
 Worked on a [collaborative research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy. Following are the list of publications I authored/contributed:
 
-* Develop algorithms and to implement using Java and web based technologies a Survailance platfrom to fuse data from multiple transponders such as AIS, RADAR sensors around Sri Lanken coast line.[First-Author](http://www.icter.org/conference/icter2012/paper/50)
+* Develop algorithms and to implement using Java and web based technologies a Survailance platfrom to fuse data from multiple transponders such as AIS, RADAR sensors around Sri Lanken coast line.[Publication](http://www.icter.org/conference/icter2012/paper/50)
 
-* Maritime Navigation Simulator Project, [First-Author CGAT 2012, Thailand](http://www.cgames.com.sg/PriorYearsPaper2012.html), Low Cost 3D Immersive Telepresence for Survaillance, Planning, Maneuring : 3D-COP	10.5176/2251-1679_CGAT31. Computer Games, Multimedia & Allied Technology Conference 2012.
+* Maritime Navigation Simulator Project, Low Cost 3D Immersive Telepresence for Survaillance, Planning, Maneuring : 3D-COP	10.5176/2251-1679_CGAT31. Computer Games, Multimedia & Allied Technology Conference 2012.[Publication](http://www.cgames.com.sg/PriorYearsPaper2012.html)
 
-* Maritime Navigation Simulator Project, [Co-Author ICter 2012](http://www.icter.org/conference/icter2012/paper/31) for Simulating Narrow Channel Effect on Surge Motion of a Ship in a Virtual Environment
+* Maritime Navigation Simulator Project for Simulating Narrow Channel Effect on Surge Motion of a Ship in a Virtual Environment. [Publication](http://www.icter.org/conference/icter2012/paper/31)
 
-* Undergraduate Research [Conference paper](http://www.icter.org/conference/archive2011/index.php/icter/ICTer2010/paper/view/65), Spatialized Real Time Auditory Interface for a Virtual Maritime Application in 2010.
+* Undergraduate Research on Spatialized Real Time Auditory Interface for a Virtual Maritime Application in 2010.[Publication](http://www.icter.org/conference/archive2011/index.php/icter/ICTer2010/paper/view/65)
 
 
 Technical Experience and Recent Course work
