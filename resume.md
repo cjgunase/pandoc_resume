@@ -67,6 +67,7 @@ Technical Experience and Recent Course work
 
 Technical Skills
 :   Software and Programming Languages
+
     * Perl,Python (scikit-learn, numpy, scipy, pandas), R
     * Java, C++, Database(SQL), Linux/Unix/Shell Scripting, Microsoft Excel, LaTeX
     * Web Development in Linux/Apache/MySql/PHP
