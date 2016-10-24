@@ -7,9 +7,6 @@ Chathura Gunasekara
 Apt C Houghton, MI, USA                 906-231-3808 
 -------------------     ----------------------------
 
----
-
-
 Education
 ---------
 
