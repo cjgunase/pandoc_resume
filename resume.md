@@ -62,47 +62,30 @@ Worked on a [collaborative research project](http://www.vidusayura.org/?page_id=
 * Undergraduate Research [Conference paper](http://www.icter.org/conference/archive2011/index.php/icter/ICTer2010/paper/view/65), Spatialized Real Time Auditory Interface for a Virtual Maritime Application in 2010.
 
 
-Technical Experience and Course work
+Technical Experience and Recent Course work
 --------------------
 Data Science
-:   Applied Predictive Modelling Fall 2014
+:   **Applied Predictive Modelling** Fall 2014
 
-: Introduction to Data Science Fall 2014
+:   **Introduction to Data Science** Fall 2014
 
+:   **Data Mining** Spring 2014
 
+:   **Data mining for geo spatial applications** Fall 2015
 
-Data Mining
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+:   **Machine Learning - Regression** Coursera Verified Certification (online)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-    
-Data Mining for Geospatial Applications Fall 2015
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Statistics
+:   **Statistical Methods** Fall 2013
 
+:   **Regression Analysis** Spring 2013
 
+:   **Time series analysis and forcasting** Spring 2015
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Computer Science
+:   **Advanced Scripting and Programming** Fall 2015
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Algorithmic Toolbox** Coursera Verified Certification (online)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Bioinformatics
+:   **Bioinformatics Programming Skills** Fall 2013
