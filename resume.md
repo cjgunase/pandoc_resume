@@ -64,6 +64,13 @@ Worked on a [collaborative research project](http://www.vidusayura.org/?page_id=
 
 Technical Experience and Recent Course work
 --------------------
+
+Technical Skills
+:   Software and Programming Languages
+    * Perl,Python (scikit-learn, numpy, scipy, pandas), R
+    * Java, C++, Database(SQL), Linux/Unix/Shell Scripting, Microsoft Excel, LaTeX
+    * Web Development in Linux/Apache/MySql/PHP
+
 Data Science
 :   **Applied Predictive Modelling** Fall 2014
 :   **Introduction to Data Science** Fall 2014
