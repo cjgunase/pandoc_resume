@@ -67,13 +67,14 @@ Worked on a [collaborative research project](http://www.vidusayura.org/?page_id=
 
 Technical Experience and Course work
 --------------------
-Predictive Modelling Fall 2014
-:   Optical Character recognision
+Data Science
+:   Applied Predictive Modelling Fall 2014
 
-Data Science Fall 2014
-:   Keosera Document solutions Big Data Project
+: Introduction to Data Science Fall 2014
 
-Data Mining Spring 2015 Group Project
+
+
+Data Mining
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
@@ -108,20 +109,3 @@ Programming Languages
     it.
 
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
