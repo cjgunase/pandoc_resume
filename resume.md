@@ -28,11 +28,15 @@ Projects, Work Experience & Publications
 
 _Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/), conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data._
 
+
 * [TF-miner](https://github.com/cjgunase/TF-miner)
+
 
 * My early [attempts](github repo) for this research was [presented](http://www.slideshare.net/secret/15sqXSMbpOHAOQ) at NSF Project/Bioinformatics Workshop @ Noble Foundation, Ardmore, Oklahoma.
 
+
 * Pairwise analysis of Pathway - Transcription Factor gene expression data to find regulatory TF clusters.[Git](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
+
 
 * Currently implementing a [web](http://sys.bio.mtu.edu/cluster/index.php) based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways using novel pair-wise gene association methods such as Maximum Information Coefficient(MIC), Distance Correlation.
 
@@ -40,13 +44,20 @@ _Completed projects_
 
 * [Developed](https://github.com/cjgunase/exactSearch), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes. Our suffix tree based search algorithm can search for 100 degerate motifs in 35000 genes under 4 minutes!.
 
+
 * I configured, installed and developed Perl scripts for parsing the FASTQ files using open sourse tools for a genome browser to [visualize](https://blossom.ffr.mtu.edu/designindex2.php) RNA-seq and Ribo-seq of wild-type and STTM mutants. This browser provides information on global translation status and miRNA-directed translation inhibition, which is currently lacking in plants. This web portal make them available to the research community.
+
 
 * [Co-authored](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/) an algorithm to infer hierachical gene regulatory network from gene expression data.
 
+
 * [Implemented](http://sys.bio.mtu.edu) and [Co-authored](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1) Poplar Gene Expression Pipeline web application.
 
+
 * [Contributor](https://github.com/cjgunase/myVisualizations/tree/master/circos), to Birch Genome publication building a Circos Visualization
+
+
+
 
 
 **Software Engineer/Research Engineer : 2010 - 2013**
