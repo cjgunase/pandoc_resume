@@ -56,7 +56,7 @@ _Completed projects_
 
 * Contributed to the publication of a lab member by creating a Circos Visualization of genomics data from Birch genome.[[source]](https://github.com/cjgunase/myVisualizations/tree/master/circos)
 
-\newpage
+\pagebreak
 
 **Software Engineer/Research Engineer : 2010 - 2013**
 
@@ -106,6 +106,7 @@ Side projects
 -------------
 
 **Maintaining a data science blog**
+
 [https://cjgunase.github.io](https://cjgunase.github.io)
 
 **Learning biology from online courses**
