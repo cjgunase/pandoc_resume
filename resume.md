@@ -32,7 +32,7 @@ _Currently Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/facul
 * TF-miner is a data analysis pipeline based on partial least squares and graphical gaussian models to identify regulatory TFs using microarray expression under stress conditions. [[source]](https://github.com/cjgunase/TF-miner)
 
 
-* Infer gene regulatory network from DREAM5 dataset and  extend the method for arabidopsis gene expr data  at a Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.[[source]](),[[_presentation_]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
+* Infer gene regulatory network from DREAM5 dataset and  extend the method for arabidopsis gene expr data  at a Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.[[source]](https://github.com/cjgunase/DREAM5_gene_net.git),[[_presentation_]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
 
 
 * Pairwise analysis of gene expression data to find regulatory TF clusters using novel association methods.[[source]](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
