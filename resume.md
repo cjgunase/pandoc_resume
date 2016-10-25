@@ -29,16 +29,16 @@ Projects, Work Experience & Publications
 _Currently Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) at Michigan Tech. University, conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data._
 
 
-* TF-miner is a data analysis pipeline based on partial least squares and graphical gaussian models to identify regulatory TFs using microarray expression under stress conditions. [[_source_]](https://github.com/cjgunase/TF-miner)
+* TF-miner is a data analysis pipeline based on partial least squares and graphical gaussian models to identify regulatory TFs using microarray expression under stress conditions. [[source]](https://github.com/cjgunase/TF-miner)
 
 
-* Bayesian network to infer gene regulatory network for this research was  at NSF Project/Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.[[_source_]](),[[_presentation_]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
+* Infer gene regulatory network from DREAM5 dataset and  extend the method for arabidopsis gene expr data  at a Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.[[source]](),[[_presentation_]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
 
 
 * Pairwise analysis of gene expression data to find regulatory TF clusters using novel association methods.[[source]](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
 
 
-* Currently implementing a  web based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways.[[source]](), [[web]](http://sys.bio.mtu.edu/cluster/index.php)
+* Currently implementing a  web based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways.[[source]](https://github.com/cjgunase/TF-Cluster), [[web]](http://sys.bio.mtu.edu/cluster/index.php)
 
 _Completed projects_
 
