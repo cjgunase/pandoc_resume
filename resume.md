@@ -45,13 +45,13 @@ _Completed projects_
 * Developed, implemented and published an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.[[source]](https://github.com/cjgunase/exactSearch), [[web]](http://sys.bio.mtu.edu/motif/), [[publication]](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6)
 
 
-* I configured, installed and developed Perl scripts for parsing the fastq files using open sourse tools for a genome browser to visualize RNA-seq and Ribo-seq of wild-type and STTM mutants.[web](https://blossom.ffr.mtu.edu/designindex2.php)
+* I configured, installed and developed Perl scripts for parsing the fastq files using open sourse tools for a genome browser to visualize RNA-seq and Ribo-seq of wild-type and STTM mutants.[[web]](https://blossom.ffr.mtu.edu/designindex2.php)
 
 
 * Collaborated with a lab member to publish an algorithm to infer hierachical gene regulatory network from gene expression data.[[publication]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/)
 
 
-* Collaborated with a lab member  to develop the  Poplar Gene Expression Pipeline web application. [web](http://sys.bio.mtu.edu), [publication](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1)
+* Collaborated with a lab member  to develop the  Poplar Gene Expression Pipeline web application. [[web]](http://sys.bio.mtu.edu), [[publication]](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1)
 
 
 * Contributed to the publication of a lab member by creating a Circos Visualization of genomics data from Birch genome.[[source]](https://github.com/cjgunase/myVisualizations/tree/master/circos)
