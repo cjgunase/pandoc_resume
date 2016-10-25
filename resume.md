@@ -105,4 +105,6 @@ Side projects
 -------------
 
 **Maintaining a data science blog**
-[link](https://cjgunase.github.io)
+[https://cjgunase.github.io](https://cjgunase.github.io)
+
+**Learning biology from online courses**
