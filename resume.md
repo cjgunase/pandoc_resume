@@ -26,35 +26,35 @@ Projects, Work Experience & Publications
 
 **Graduate Research Assistant : 2013 - Present**
 
-_Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/), conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data._
+_Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) at Michigan Tech. University, conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data._
 
 
-* [TF-miner](https://github.com/cjgunase/TF-miner)
+* TF-miner is a machine learning based data analysis pipeline using Partial Least Squares and Graphical Gaussian Model to identify regulatory TFs using microarray expression under stress conditions. [[_source_]](https://github.com/cjgunase/TF-miner)
 
 
-* Bayesian network to infer gene regulatory network [implementation](github repo) for this research was [presented](http://www.slideshare.net/secret/15sqXSMbpOHAOQ) at NSF Project/Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.
+* Bayesian network to infer gene regulatory network for this research was  at NSF Project/Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.[[_source_]](),[[_presentation_]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
 
 
-* Pairwise analysis of Pathway - Transcription Factor gene expression data to find regulatory TF clusters.[Git](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
+* Pairwise analysis of Pathway - Transcription Factor gene expression data to find regulatory TF clusters.[source](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
 
 
-* Currently implementing a [web](http://sys.bio.mtu.edu/cluster/index.php) based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways.
+* Currently implementing a  web based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways.[source](), [web](http://sys.bio.mtu.edu/cluster/index.php)
 
 _Completed projects_
 
-* [Developed](https://github.com/cjgunase/exactSearch), [implemented](http://sys.bio.mtu.edu/motif/) and [published](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6) an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.
+* Developed, implemented and published an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.[[source]](https://github.com/cjgunase/exactSearch), [[web]](http://sys.bio.mtu.edu/motif/), [[publication]](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6)
 
 
-* I configured, installed and developed Perl scripts for parsing the FASTQ files using open sourse tools for a genome browser to [visualize](https://blossom.ffr.mtu.edu/designindex2.php) RNA-seq and Ribo-seq of wild-type and STTM mutants.
+* I configured, installed and developed Perl scripts for parsing the FASTQ files using open sourse tools for a genome browser to visualize RNA-seq and Ribo-seq of wild-type and STTM mutants.[web](https://blossom.ffr.mtu.edu/designindex2.php)
 
 
-* [Co-authored](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/) an algorithm to infer hierachical gene regulatory network from gene expression data.
+* Collaborated with a lab member to publish an algorithm to infer hierachical gene regulatory network from gene expression data.[[publication]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/)
 
 
-* [Implemented](http://sys.bio.mtu.edu) and [Co-authored](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1) Poplar Gene Expression Pipeline web application.
+* Collaborated with a lab member  to develop the  Poplar Gene Expression Pipeline web application. [web](http://sys.bio.mtu.edu), [publication](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1)
 
 
-* [Contributor](https://github.com/cjgunase/myVisualizations/tree/master/circos) to create a Circos Visualization of genomic data.
+* Contributed to the publication of a lab member by creating a Circos Visualization of genomic data.[[source]](https://github.com/cjgunase/myVisualizations/tree/master/circos)
 
 
 
@@ -62,13 +62,13 @@ _Completed projects_
 
 Worked on a [collaborative research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy. Following are the list of publications I authored/contributed:
 
-* Develop algorithms and to implement using Java and web based technologies a Survailance platfrom to fuse data from multiple transponders such as AIS, RADAR sensors around Sri Lanken coast line.[Publication](http://www.icter.org/conference/icter2012/paper/50)
+* Develop algorithms and to implement using Java and web based technologies a Survailance platfrom to fuse data from multiple transponders such as AIS, RADAR sensors around Sri Lanken coast line.[[Publication]](http://www.icter.org/conference/icter2012/paper/50)
 
-* Maritime Navigation Simulator Project, Low Cost 3D Immersive Telepresence for Survaillance, Planning, Maneuring : 3D-COP	10.5176/2251-1679_CGAT31. Computer Games, Multimedia & Allied Technology Conference 2012.[Publication](http://www.cgames.com.sg/PriorYearsPaper2012.html)
+* Maritime Navigation Simulator Project, Low Cost 3D Immersive Telepresence for Survaillance, Planning, Maneuring : 3D-COP	10.5176/2251-1679_CGAT31. Computer Games, Multimedia & Allied Technology Conference 2012.[[Publication]](http://www.cgames.com.sg/PriorYearsPaper2012.html)
 
-* Maritime Navigation Simulator Project for Simulating Narrow Channel Effect on Surge Motion of a Ship in a Virtual Environment. [Publication](http://www.icter.org/conference/icter2012/paper/31)
+* Maritime Navigation Simulator Project for Simulating Narrow Channel Effect on Surge Motion of a Ship in a Virtual Environment. [[Publication]](http://www.icter.org/conference/icter2012/paper/31)
 
-* Undergraduate Research on Spatialized Real Time Auditory Interface for a Virtual Maritime Application in 2010.[Publication](http://www.icter.org/conference/archive2011/index.php/icter/ICTer2010/paper/view/65)
+* Undergraduate Research on Spatialized Real Time Auditory Interface for a Virtual Maritime Application in 2010.[[Publication]](http://www.icter.org/conference/archive2011/index.php/icter/ICTer2010/paper/view/65)
 
 
 Technical Experience and Recent Course work
