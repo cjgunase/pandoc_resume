@@ -26,7 +26,7 @@ Projects, Work Experience & Publications
 
 **Graduate Research Assistant : 2013 - Present**
 
-_Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) at Michigan Tech. University, conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data._
+_Currently Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) at Michigan Tech. University, conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data._
 
 
 * TF-miner is a data analysis pipeline based on partial least squares and graphical gaussian models to identify regulatory TFs using microarray expression under stress conditions. [[_source_]](https://github.com/cjgunase/TF-miner)
@@ -42,10 +42,10 @@ _Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/
 
 _Completed projects_
 
-* Developed, implemented and published an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.[[source]](https://github.com/cjgunase/exactSearch), [[web]](http://sys.bio.mtu.edu/motif/), [[publication]](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6)
+* Developed an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.[[source]](https://github.com/cjgunase/exactSearch), [[web]](http://sys.bio.mtu.edu/motif/), [[publication]](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6)
 
 
-* I configured, installed and developed Perl scripts for parsing the fastq files using open sourse tools for a genome browser to visualize RNA-seq and Ribo-seq of wild-type and STTM mutants.[[web]](https://blossom.ffr.mtu.edu/designindex2.php)
+* Configured, installed a JBrowse genome browser to visualize RNA-seq and Ribo-seq of wild-type and STTM mutants to parse fastq files.[[web]](https://blossom.ffr.mtu.edu/designindex2.php)
 
 
 * Collaborated with a lab member to publish an algorithm to infer hierachical gene regulatory network from gene expression data.[[publication]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/)
@@ -56,11 +56,12 @@ _Completed projects_
 
 * Contributed to the publication of a lab member by creating a Circos Visualization of genomics data from Birch genome.[[source]](https://github.com/cjgunase/myVisualizations/tree/master/circos)
 
-
+\newpage
 
 **Software Engineer/Research Engineer : 2010 - 2013**
 
-Worked on a [collaborative research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy. Following are the list of publications I authored/contributed:
+Worked on a [research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy.
+
 
 * Develop algorithms and to implement using Java and web based technologies a Survailance platfrom to fuse data from multiple transponders such as AIS, RADAR sensors around Sri Lanken coast line.[[Publication]](http://www.icter.org/conference/icter2012/paper/50)
 
