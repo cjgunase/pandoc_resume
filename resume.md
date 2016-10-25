@@ -29,23 +29,23 @@ Projects, Work Experience & Publications
 _Currently I am Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) at Michigan Tech. University, conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data._
 
 
-* TF-miner is a machine learning based data analysis pipeline using Partial Least Squares and Graphical Gaussian Model to identify regulatory TFs using microarray expression under stress conditions. [[_source_]](https://github.com/cjgunase/TF-miner)
+* TF-miner is a data analysis pipeline based on partial least squares and graphical gaussian models to identify regulatory TFs using microarray expression under stress conditions. [[_source_]](https://github.com/cjgunase/TF-miner)
 
 
 * Bayesian network to infer gene regulatory network for this research was  at NSF Project/Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.[[_source_]](),[[_presentation_]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
 
 
-* Pairwise analysis of Pathway - Transcription Factor gene expression data to find regulatory TF clusters.[source](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
+* Pairwise analysis of gene expression data to find regulatory TF clusters using novel association methods.[[source]](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
 
 
-* Currently implementing a  web based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways.[source](), [web](http://sys.bio.mtu.edu/cluster/index.php)
+* Currently implementing a  web based gene expression data analysis pipeline to identify Transcription Factor(TF) clusters which associates with known biological pathways.[[source]](), [[web]](http://sys.bio.mtu.edu/cluster/index.php)
 
 _Completed projects_
 
 * Developed, implemented and published an algorithm and web application to search for degenerate motifs in the promoter regions of 50 plant species genomes.[[source]](https://github.com/cjgunase/exactSearch), [[web]](http://sys.bio.mtu.edu/motif/), [[publication]](http://plantmethods.biomedcentral.com/articles/10.1186/s13007-016-0126-6)
 
 
-* I configured, installed and developed Perl scripts for parsing the FASTQ files using open sourse tools for a genome browser to visualize RNA-seq and Ribo-seq of wild-type and STTM mutants.[web](https://blossom.ffr.mtu.edu/designindex2.php)
+* I configured, installed and developed Perl scripts for parsing the fastq files using open sourse tools for a genome browser to visualize RNA-seq and Ribo-seq of wild-type and STTM mutants.[web](https://blossom.ffr.mtu.edu/designindex2.php)
 
 
 * Collaborated with a lab member to publish an algorithm to infer hierachical gene regulatory network from gene expression data.[[publication]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4797117/)
@@ -54,7 +54,7 @@ _Completed projects_
 * Collaborated with a lab member  to develop the  Poplar Gene Expression Pipeline web application. [web](http://sys.bio.mtu.edu), [publication](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1)
 
 
-* Contributed to the publication of a lab member by creating a Circos Visualization of genomic data.[[source]](https://github.com/cjgunase/myVisualizations/tree/master/circos)
+* Contributed to the publication of a lab member by creating a Circos Visualization of genomics data from Birch genome.[[source]](https://github.com/cjgunase/myVisualizations/tree/master/circos)
 
 
 
