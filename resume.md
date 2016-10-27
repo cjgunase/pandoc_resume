@@ -101,12 +101,3 @@ Computer Science
 Bioinformatics
 :   **Bioinformatics Programming Skills** Fall 2013
 
-
-Side projects
--------------
-
-**Maintaining a data science blog**
-
-[https://cjgunase.github.io](https://cjgunase.github.io)
-
-**Learning biology from online courses**
