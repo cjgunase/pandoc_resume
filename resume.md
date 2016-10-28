@@ -78,9 +78,10 @@ Technical Experience and Recent Course work
 Technical Skills
 :   Software and Programming Languages
 
-    * Perl,Python (scikit-learn, numpy, scipy, pandas), R
-    * Java, C++, Database(SQL), Linux/Unix/Shell Scripting, Microsoft Excel, LaTeX
-    * Web Development in Linux/Apache/MySql/PHP
+    * Software engineering (Object oriented programming, version control, Documentation)
+    * Python (scikit-learn/ numpy/ scipy, pandas), R, Microsoft Excel
+    * Perl, Java, C++, Database(SQL), Linux/Unix/Shell Scripting
+    * Web Development (Linux/ Apache/ MySql/ PHP) and web server management
 
 Data Science
 :   **Applied Predictive Modelling** Fall 2014
@@ -100,4 +101,13 @@ Computer Science
 
 Bioinformatics
 :   **Bioinformatics Programming Skills** Fall 2013
+
+Teamwork Skills
+:   Ability and willingness to work effectively in a team setting
+:   Able to motivate team members to greater success
+
+Communication Skills
+:   Speaks persuasively and articulately 
+:   Listens carefully and welcome advise and critisism
+
 
