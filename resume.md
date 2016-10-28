@@ -89,14 +89,14 @@ Data Science
 
 Statistics
 :   Statistical Methods (Fall 2013), Regression Analysis (Spring 2013)
-:   Time series analysis and forcasting Spring 2015
+:   Time series analysis and forcasting (Spring 2015)
 
 Computer Science
-:   Advanced Scripting and Programming Fall 2015
+:   Advanced Scripting and Programming (Fall 2015)
 :   Algorithmic Toolbox by University of California, San Diego & Higher School of Economics on Coursera.[verify](https://www.coursera.org/account/accomplishments/certificate/KSF3Q7M96AWB)
 
 Bioinformatics
-:   Bioinformatics Programming Skills Fall 2013
+:   Bioinformatics Programming Skills (Fall 2013)
 
 Additional Skills
 -------------------
@@ -106,10 +106,10 @@ Teamwork Skills
 :   Able to motivate team members to greater success
 
 Communication Skills
-:   Speaks persuasively and articulately 
+:   Speaks persuasively and articulately in English
 :   Listens carefully and welcome advise and critisism
 
-Extra Activities
+Extra 
 :   Mentoring masters students who worked in our lab
-:   Recently started a data science/programming [blog](https://cjgunase.github.io)
+:   Recently started a data science/programming [blog](https://cjgunase.github.io) to share my work
 
