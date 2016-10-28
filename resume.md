@@ -86,7 +86,8 @@ Data Science
 :   Introduction to Data Science Fall 2014
 :   Data Mining Spring 2014
 :   Data mining for geo spatial applications    Fall 2015
-:   Machine Learning - Regression   Coursera Verified Certification (online)
+:   Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera [verify](Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera)
+:   Machine Learning: Regression by University of Washington on Coursera [verify](https://www.coursera.org/account/accomplishments/certificate/2AXNSM86GTZS)
 
 Statistics
 :   Statistical Methods   Fall 2013
@@ -95,10 +96,13 @@ Statistics
 
 Computer Science
 :   Advanced Scripting and Programming Fall 2015
-:   Algorithmic Toolbox Coursera Verified Certification (online)
+:   Algorithmic Toolbox by University of California, San Diego & Higher School of Economics on Coursera.[verify](https://www.coursera.org/account/accomplishments/certificate/KSF3Q7M96AWB)
 
 Bioinformatics
 :   Bioinformatics Programming Skills Fall 2013
+
+Additional Skills
+-------------------
 
 Teamwork Skills
 :   Ability and willingness to work effectively in a team setting
