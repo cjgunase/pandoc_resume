@@ -82,23 +82,17 @@ Technical Skills
 :   Web Development (Linux/Apache/MySql/PHP) and web server management
 
 Data Science
-:   Applied Predictive Modelling Fall 2014
-:   Introduction to Data Science Fall 2014
-:   Data Mining Spring 2014
-:   Data mining for geo spatial applications    Fall 2015
-
+:   Applied Predictive Modelling (Fall 2014), Introduction to Data Science (Fall 2014)
+:   Data Mining (Spring 2014), Data mining for geo spatial applications (Fall 2015)
 :   Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera [verify](Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera)
-
 :   Machine Learning: Regression by University of Washington on Coursera [verify](https://www.coursera.org/account/accomplishments/certificate/2AXNSM86GTZS)
 
 Statistics
-:   Statistical Methods   Fall 2013
-:   Regression Analysis Spring 2013
+:   Statistical Methods (Fall 2013), Regression Analysis (Spring 2013)
 :   Time series analysis and forcasting Spring 2015
 
 Computer Science
 :   Advanced Scripting and Programming Fall 2015
-
 :   Algorithmic Toolbox by University of California, San Diego & Higher School of Economics on Coursera.[verify](https://www.coursera.org/account/accomplishments/certificate/KSF3Q7M96AWB)
 
 Bioinformatics
@@ -117,5 +111,5 @@ Communication Skills
 
 Extra Activities
 :   Mentoring masters students who worked in our lab
-:   Recently started a data science/programming [blog](https://cjgunase.github.io) to share what I learn with the world!
+:   Recently started a data science/programming [blog](https://cjgunase.github.io)
 
