@@ -77,9 +77,9 @@ Technical Experience and Recent Course work
 
 Technical Skills
 :   Software engineering (Object oriented programming, version control, Documentation)
-:   Python (scikit-learn/ numpy/ scipy, pandas), R, Microsoft Excel
+:   Python (scikit-learn/numpy/scipy/pandas), R, Microsoft Excel
 :   Perl, Java, C++, Database(SQL), Linux/Unix/Shell Scripting
-:   Web Development (Linux/ Apache/ MySql/ PHP) and web server management
+:   Web Development (Linux/Apache/MySql/PHP) and web server management
 
 Data Science
 :   Applied Predictive Modelling Fall 2014
