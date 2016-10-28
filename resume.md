@@ -115,4 +115,7 @@ Communication Skills
 :   Speaks persuasively and articulately 
 :   Listens carefully and welcome advise and critisism
 
+Extra Activities
+:   Mentoring masters students who worked in our lab
+:   Recently started a data science/programming [blog](https://cjgunase.github.io) to share what I learn with the world!
 
