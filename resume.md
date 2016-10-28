@@ -76,31 +76,29 @@ Technical Experience and Recent Course work
 --------------------
 
 Technical Skills
-:   Software and Programming Languages
-
-    * Software engineering (Object oriented programming, version control, Documentation)
-    * Python (scikit-learn/ numpy/ scipy, pandas), R, Microsoft Excel
-    * Perl, Java, C++, Database(SQL), Linux/Unix/Shell Scripting
-    * Web Development (Linux/ Apache/ MySql/ PHP) and web server management
+:   Software engineering (Object oriented programming, version control, Documentation)
+:   Python (scikit-learn/ numpy/ scipy, pandas), R, Microsoft Excel
+:   Perl, Java, C++, Database(SQL), Linux/Unix/Shell Scripting
+:   Web Development (Linux/ Apache/ MySql/ PHP) and web server management
 
 Data Science
-:   **Applied Predictive Modelling** Fall 2014
-:   **Introduction to Data Science** Fall 2014
-:   **Data Mining** Spring 2014
-:   **Data mining for geo spatial applications** Fall 2015
-:   **Machine Learning - Regression** Coursera Verified Certification (online)
+:   Applied Predictive Modelling Fall 2014
+:   Introduction to Data Science Fall 2014
+:   Data Mining Spring 2014
+:   Data mining for geo spatial applications    Fall 2015
+:   Machine Learning - Regression   Coursera Verified Certification (online)
 
 Statistics
-:   **Statistical Methods** Fall 2013
-:   **Regression Analysis** Spring 2013
-:   **Time series analysis and forcasting** Spring 2015
+:   Statistical Methods   Fall 2013
+:   Regression Analysis Spring 2013
+:   Time series analysis and forcasting Spring 2015
 
 Computer Science
-:   **Advanced Scripting and Programming** Fall 2015
-:   **Algorithmic Toolbox** Coursera Verified Certification (online)
+:   Advanced Scripting and Programming Fall 2015
+:   Algorithmic Toolbox Coursera Verified Certification (online)
 
 Bioinformatics
-:   **Bioinformatics Programming Skills** Fall 2013
+:   Bioinformatics Programming Skills Fall 2013
 
 Teamwork Skills
 :   Ability and willingness to work effectively in a team setting
