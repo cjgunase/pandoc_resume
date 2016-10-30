@@ -2,9 +2,9 @@ Chathura Gunasekara
 ============
 
 -------------------     ----------------------------
-2101 Woodmar Dr                     cjgunase@mtu.edu
-
-Apt C Houghton, MI, USA               (213) 316-6296 
+2101 Woodmar Dr                     cjgunase@mtu.edu                                     
+Apt C Houghton                      (213) 316-6296 
+MI USA                              cjgunase.github.io
 -------------------     ----------------------------
 
 Education
