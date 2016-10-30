@@ -21,7 +21,7 @@ Education
 2010
 :   **BS, Computational Physics**; University of Colombo (Sri Lanka)
     
-    Major in Computer Science with minor in Physics and Applied Mathematics*
+    Major in Computer Science with minor in Physics and Applied Mathematics
 
 Professional Experience & Publications
 ----------
@@ -55,7 +55,7 @@ _Completed projects_
 * Collaborated with a lab member  to develop the  Poplar Gene Expression Pipeline web application. [[web]](http://sys.bio.mtu.edu), [[publication]](http://link.springer.com/article/10.1007/s11295-014-0745-x#page-1)
 
 
-* Contributed to the publication of a lab member by creating a Circos Visualization of genomics data from Birch genome.[[source]](https://github.com/cjgunase/myVisualizations/tree/master/circos)
+* Contributed to the publication of a lab member by creating a Circos visualization of genomics data from Birch genome.[[source]](https://github.com/cjgunase/myVisualizations/tree/master/circos)
 
 \pagebreak
 
@@ -107,4 +107,4 @@ Professional Development
 :     Presentation at NSFproject/Bioinformatics workshop at Noble Foundation, Ardmore, OK on Gene regulatory network prediction using partial least squares and bayesian network methods.[[presentation]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
 
 2016
-:     Poster presentation at research symposium of Life Science and Technology Institure, Michigan Tech
+:     Poster presentation at the research symposium of Life Science and Technology Institute, Michigan Tech
