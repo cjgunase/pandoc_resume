@@ -13,9 +13,9 @@ Education
 2017 Spring (expected)
 :   **PhD, Computational Science & Engineering**; Michigan Technological University (Houghton, MI)
 
-    *Advisor : [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/)
-    
-    *PhD Thesis title: Bioinformatics Tools and Algorithms Development for Gene Regulatory Network Inference*
+      Advisor : [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/)
+   
+      PhD Thesis title: Bioinformatics Tools and Algorithms Development for Gene Regulatory Network Inference*
        
 
 2010
@@ -101,11 +101,15 @@ Bioinformatics
 
 Professional Development
 ------------------------
-2016
-:  Presentation at NSFproject/Bioinformatics workshop at Noble Foundation, Ardmore, OK on Gene regulatory network prediction using partial least squares and bayesian network methods.
 
 2016
-:  Poster presentation at research symposium of Life Science and Technology Institure, Michigan Tech
+:  
+      * Presentation at NSFproject/Bioinformatics workshop at Noble Foundation, Ardmore, OK on Gene regulatory network prediction using partial least squares and bayesian network methods.
+
+2016
+:  
+      *Poster presentation at research symposium of Life Science and Technology Institure, Michigan Tech
 
 2014
-: Presentation at Graduate research symposium organized by Graduate Student Governement, Michigan Tech
+: 
+      *Presentation at Graduate research symposium organized by Graduate Student Governement, Michigan Tech
