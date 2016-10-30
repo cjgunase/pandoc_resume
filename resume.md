@@ -13,7 +13,7 @@ Education
 2017 Spring (expected)
 :   **PhD, Computational Science & Engineering**; Michigan Technological University (Houghton, MI)
 
-      Advisor : [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/)
+      Advisor: [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/)
    
       PhD Thesis title: Bioinformatics Tools and Algorithms Development for Gene Regulatory Network Inference*
        
@@ -21,7 +21,7 @@ Education
 2010
 :   **BS, Computational Physics**; University of Colombo (Sri Lanka)
     
-    *Major in Computer Science with minor in Physics and Applied Mathematics*
+    Major in Computer Science with minor in Physics and Applied Mathematics*
 
 Professional Experience & Publications
 ----------
@@ -33,7 +33,7 @@ _Curruent Projects_
 * TF-miner is a data analysis pipeline based on partial least squares and graphical gaussian models to identify regulatory TFs using microarray expression under stress conditions. [[source]](https://github.com/cjgunase/TF-miner)
 
 
-* Infer gene regulatory network from DREAM5 dataset and  extend the method for arabidopsis gene expr data  at a Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.[[source]](https://github.com/cjgunase/DREAM5_gene_net.git),[[_presentation_]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
+* Infer gene regulatory network from DREAM5 dataset and  extend the method for arabidopsis gene expr data  at a Bioinformatics Workshop at Noble Foundation, Ardmore, Oklahoma.[[source]](https://github.com/cjgunase/DREAM5_gene_net.git)
 
 
 * Pairwise analysis of gene expression data to find regulatory TF clusters using novel association methods.[[source]](https://github.com/cjgunase/MIC_based_gene_expr_analysis)
@@ -96,20 +96,18 @@ Computer Science
 :   Advanced Scripting and Programming (Fall 2015)
 :   Algorithmic Toolbox by University of California, San Diego & Higher School of Economics on Coursera.[[verify]](https://www.coursera.org/account/accomplishments/certificate/KSF3Q7M96AWB)
 
-Bioinformatics
+Biology
 :   Bioinformatics Programming Skills (Fall 2013)
+:   Following Genomic Data Science Specialization Johns Hopkins University on Coursera
 
 Professional Development
 ------------------------
 
 2016
-:  
-      * Presentation at NSFproject/Bioinformatics workshop at Noble Foundation, Ardmore, OK on Gene regulatory network prediction using partial least squares and bayesian network methods.
+:     Presentation at NSFproject/Bioinformatics workshop at Noble Foundation, Ardmore, OK on Gene regulatory network prediction using partial least squares and bayesian network methods.[[_presentation_]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
 
 2016
-:  
-      *Poster presentation at research symposium of Life Science and Technology Institure, Michigan Tech
+:     Poster presentation at research symposium of Life Science and Technology Institure, Michigan Tech
 
 2014
-: 
-      *Presentation at Graduate research symposium organized by Graduate Student Governement, Michigan Tech
+:     Presentation at Graduate research symposium organized by Graduate Student Governement, Michigan Tech
