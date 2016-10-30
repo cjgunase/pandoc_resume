@@ -4,30 +4,30 @@ Chathura Gunasekara
 -------------------     ----------------------------
 2101 Woodmar Dr                     cjgunase@mtu.edu
 
-Apt C Houghton, MI, USA                 (213) 316-6296 
+Apt C Houghton, MI, USA               (213) 316-6296 
 -------------------     ----------------------------
 
 Education
 ---------
 
-2013 May - 2017 Spring (expected)
+2017 Spring (expected)
 :   **PhD, Computational Science & Engineering**; Michigan Technological University (Houghton, MI)
-    
+
+    *Advisor : [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/)
     *PhD Thesis title: Bioinformatics Tools and Algorithms Development for Gene Regulatory Network Inference*
        
 
-2006-2010
+2010
 :   **BS, Computational Physics**; University of Colombo (Sri Lanka)
     
     *Major in Computer Science with minor in Physics and Applied Mathematics*
 
-Projects, Work Experience & Publications
+Professional Experience & Publications
 ----------
 
 **Graduate Research Assistant : 2013 - Present**
 
-_Currently Working under [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/) at Michigan Tech. University, conducting research to infer gene regulatory networks and indentify regulatory transcription factors (TFs) which control known biological pathways in *Arabidopsis thaliana* under stress conditions using gene expression data._
-
+_Curruent Projects_
 
 * TF-miner is a data analysis pipeline based on partial least squares and graphical gaussian models to identify regulatory TFs using microarray expression under stress conditions. [[source]](https://github.com/cjgunase/TF-miner)
 
@@ -60,7 +60,7 @@ _Completed projects_
 
 **Software Engineer/Research Engineer : 2010 - 2013**
 
-Worked on a [research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy.
+I Worked on a [research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy.
 
 
 * Develop algorithms and to implement using Java and web based technologies a Survailance platfrom to fuse data from multiple transponders such as AIS, RADAR sensors around Sri Lanken coast line.[[Publication]](http://www.icter.org/conference/icter2012/paper/50)
@@ -93,23 +93,7 @@ Statistics
 
 Computer Science
 :   Advanced Scripting and Programming (Fall 2015)
-:   Algorithmic Toolbox by University of California, San Diego & Higher School of Economics on Coursera.[verify](https://www.coursera.org/account/accomplishments/certificate/KSF3Q7M96AWB)
+:   Algorithmic Toolbox by University of California, San Diego & Higher School of Economics on Coursera.[<sub>verify</sub>](https://www.coursera.org/account/accomplishments/certificate/KSF3Q7M96AWB)
 
 Bioinformatics
 :   Bioinformatics Programming Skills (Fall 2013)
-
-Additional Skills
--------------------
-
-Teamwork Skills
-:   Ability and willingness to work effectively in a team setting
-:   Able to motivate team members to greater success
-
-Communication Skills
-:   Speaks persuasively and articulately in English
-:   Listens carefully and welcome advise and critisism
-
-Extra 
-:   Mentoring masters students who worked in our lab
-:   Recently started a data science/programming [blog](https://cjgunase.github.io) to share my work
-
