@@ -76,7 +76,7 @@ I Worked on a [research project](http://www.vidusayura.org/?page_id=2) with Univ
 Technical Experience and Recent Course work
 --------------------
 
-Technical Skills
+Programming
 :   Software engineering (Object oriented programming, version control, Documentation)
 :   Python (scikit-learn/numpy/scipy/pandas), R, Microsoft Excel
 :   Perl, Java, C++, Database(SQL), Linux/Unix/Shell Scripting
@@ -85,29 +85,26 @@ Technical Skills
 Data Science
 :   Applied Predictive Modelling (Fall 2014), Introduction to Data Science (Fall 2014)
 :   Data Mining (Spring 2014), Data mining for geo spatial applications (Fall 2015)
-:   Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera [[verify]](Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera)
+:   Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera [[verify]](https://www.coursera.org/account/accomplishments/certificate/UALSGBFJHK7W)
 :   Machine Learning: Regression by University of Washington on Coursera [[verify]](https://www.coursera.org/account/accomplishments/certificate/2AXNSM86GTZS)
 
 Statistics
 :   Statistical Methods (Fall 2013), Regression Analysis (Spring 2013)
 :   Time series analysis and forcasting (Spring 2015)
 
-Computer Science
+Algorithms
 :   Advanced Scripting and Programming (Fall 2015)
 :   Algorithmic Toolbox by University of California, San Diego & Higher School of Economics on Coursera.[[verify]](https://www.coursera.org/account/accomplishments/certificate/KSF3Q7M96AWB)
 
 Biology
 :   Bioinformatics Programming Skills (Fall 2013)
-:   Following Genomic Data Science Specialization Johns Hopkins University on Coursera
+:   Following online Genomic Data Science Specialization Johns Hopkins University
 
 Professional Development
 ------------------------
 
 2016
-:     Presentation at NSFproject/Bioinformatics workshop at Noble Foundation, Ardmore, OK on Gene regulatory network prediction using partial least squares and bayesian network methods.[[_presentation_]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
+:     Presentation at NSFproject/Bioinformatics workshop at Noble Foundation, Ardmore, OK on Gene regulatory network prediction using partial least squares and bayesian network methods.[[presentation]](http://www.slideshare.net/secret/15sqXSMbpOHAOQ)
 
 2016
 :     Poster presentation at research symposium of Life Science and Technology Institure, Michigan Tech
-
-2014
-:     Presentation at Graduate research symposium organized by Graduate Student Governement, Michigan Tech
