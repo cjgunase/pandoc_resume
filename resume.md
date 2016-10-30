@@ -15,7 +15,7 @@ Education
 
       Advisor: [Dr. Hairong Wei](http://www.mtu.edu/forest/about/faculty/wei/)
    
-      PhD Thesis title: Bioinformatics Tools and Algorithms Development for Gene Regulatory Network Inference*
+      PhD Thesis title: Bioinformatics Tools and Algorithms Development for Gene Regulatory Network Inference
        
 
 2010
@@ -30,7 +30,7 @@ Professional Experience & Publications
 
 _Curruent Projects_
 
-* TF-miner is a data analysis pipeline based on partial least squares and graphical gaussian models to identify regulatory TFs using microarray expression under stress conditions. [[source]](https://github.com/cjgunase/TF-miner)
+* TF-miner is a data analysis pipeline based on partial least squares and graphical gaussian models to identify regulatory TFs using microarray gene expression data under stress conditions. [[source]](https://github.com/cjgunase/TF-miner)
 
 
 * Infer gene regulatory network from DREAM5 Gene expression datasets [[source]](https://github.com/cjgunase/DREAM5_gene_net.git)
@@ -64,7 +64,7 @@ _Completed projects_
 I Worked on a [research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy.
 
 
-* Develop algorithms and to implement using Java and web based technologies a Survailance platfrom to fuse data from multiple transponders such as AIS, RADAR sensors around Sri Lanken coast line.[[Publication]](http://www.icter.org/conference/icter2012/paper/50)
+* Develop algorithms and implemented using Java and web based technologies for a Survailance platfrom to fuse data gathered from multiple transponders situated around Sri Lanken coast line  over large local area network. [[Publication]](http://www.icter.org/conference/icter2012/paper/50)
 
 * Maritime Navigation Simulator Project, Low Cost 3D Immersive Telepresence for Survaillance, Planning, Maneuring : 3D-COP	10.5176/2251-1679_CGAT31. Computer Games, Multimedia & Allied Technology Conference 2012.[[Publication]](http://www.cgames.com.sg/PriorYearsPaper2012.html)
 
