@@ -20,10 +20,13 @@ computational biology.
 
 Past Research and Experience
 ---------------------------
+web, internet related stuff, java, php googlemap API, networking stuff
+
+
 
 Current Research
 --------------
-
+machine learing backend, web based bioinformatics tools, exact search, phytozome...ect
 
 
 Intended Future Research
