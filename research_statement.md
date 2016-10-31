@@ -10,32 +10,34 @@ Research Statement for Chathura Gunasekara
 
 Introduction
 ------------
-Biology/Bioinformatics experience is essential as well as previous experience with web/database development. The applicant should have strong knowledge of Java and JavaScript (jQuery). Experience with Linux/Unix, scripting languages (Python), and relational databases.
-My research interest have been revolving around computational algorithm development, web application development, apply and devlop machine learning
-algorithms for constructuing gene regulatory networks using gene expression data. Biology has been in the forfront of computational revolution
-given the advent of methods to genereate large amount of data. This have give unpresidented access to the insigts of biological systems unlike in
-any time of history and allows us to do biologiciall experiments in a completely diffrerent way. I believe this is the most exciting time to be in
-computational biology.
 
+  The rapid increase of genotype and phenotype data have created a need for efficient technologies in moving, storing, analysing and representing them in meaningfull way. Specially with the advent of whole genome approach creates data and we need store and analyse them with computatioanl framworks. My research interest have been revolving around developing computational infrastructure in terms of algorithmic developmetn, web application development and apply and devlop machine learning algorithms. The web applications were developed under the umbrella of plant biology and each web application used different type of data available to the plant biologist. Before starting my PhD, while in Sri Lanka, I worked on a research project to integrate sensor information from coastal transponders around the country to display and visualized on a centalized map. I have used GoogleMap api and other open source GIS applications such as OpenCPN to display realtime sensor information gathered over a wide area network.
+  
 
-Past Research and Experience
+Past & Current Research projects
 ---------------------------
-web, internet related stuff, java, php googlemap API, networking stuff
+
+My first job as a softwera/Research Engineer, sensor data fution amd modelling accessing multiple sensors to aggregate in realtime and plot in googlemap api. web, internet related stuff, java, php googlemap API, networking stuff, storing in relational databases. 
+
 Biology/Bioinformatics experience is essential as well as previous experience with web/database development. The applicant should have strong knowledge of Java and JavaScript (jQuery). Experience with Linux/Unix, scripting languages (Python), and relational databases.
 
+Popler gene expression data analysis pipeline, perl, php first bioinformatics web application. published in plant and Tree journal. second exact search, c++ backend algorithm, connect to phytozome api to download data as user reguests. front web development.collaborate with phytozome system admin to learn about there api. talking with biologists. presenting posters.
 
+blossom web tool, rna seq data. jquery, perl blast, work in a team of master student. Jbrowse Sam. Bam, Tophat ect
 
+linux server management, apache,mysql ,php
 
-Current Research
---------------
-machine learing backend, web based bioinformatics tools, exact search, phytozome...ect
+machine learing backend, web based bioinformatics tools...ect
 Biology/Bioinformatics experience is essential as well as previous experience with web/database development. The applicant should have strong knowledge of Java and JavaScript (jQuery). Experience with Linux/Unix, scripting languages (Python), and relational databases.
+presentation to biologiest. 
 
 
 
 
-Intended Future Research
+Future Research
 ------------------------
+
+
 Biology/Bioinformatics experience is essential as well as previous experience with web/database development. The applicant should have strong knowledge of Java and JavaScript (jQuery). Experience with Linux/Unix, scripting languages (Python), and relational databases.
 
 https://wiki.galaxyproject.org/Events/GCC2015?action=AttachFile&do=get&target=S6_T4_EmilyGrau_Galaxy2015.pdf
