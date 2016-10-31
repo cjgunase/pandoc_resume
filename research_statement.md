@@ -10,7 +10,7 @@ Research Statement for Chathura Gunasekara
 
 Introduction
 ------------
-
+Biology/Bioinformatics experience is essential as well as previous experience with web/database development. The applicant should have strong knowledge of Java and JavaScript (jQuery). Experience with Linux/Unix, scripting languages (Python), and relational databases.
 My research interest have been revolving around computational algorithm development, web application development, apply and devlop machine learning
 algorithms for constructuing gene regulatory networks using gene expression data. Biology has been in the forfront of computational revolution
 given the advent of methods to genereate large amount of data. This have give unpresidented access to the insigts of biological systems unlike in
@@ -21,16 +21,31 @@ computational biology.
 Past Research and Experience
 ---------------------------
 web, internet related stuff, java, php googlemap API, networking stuff
+Biology/Bioinformatics experience is essential as well as previous experience with web/database development. The applicant should have strong knowledge of Java and JavaScript (jQuery). Experience with Linux/Unix, scripting languages (Python), and relational databases.
+
 
 
 
 Current Research
 --------------
 machine learing backend, web based bioinformatics tools, exact search, phytozome...ect
+Biology/Bioinformatics experience is essential as well as previous experience with web/database development. The applicant should have strong knowledge of Java and JavaScript (jQuery). Experience with Linux/Unix, scripting languages (Python), and relational databases.
+
+
 
 
 Intended Future Research
 ------------------------
+Biology/Bioinformatics experience is essential as well as previous experience with web/database development. The applicant should have strong knowledge of Java and JavaScript (jQuery). Experience with Linux/Unix, scripting languages (Python), and relational databases.
+
+https://wiki.galaxyproject.org/Events/GCC2015?action=AttachFile&do=get&target=S6_T4_EmilyGrau_Galaxy2015.pdf
+http://gmod.org/wiki/Tripal
+(http://www.cyverse.org/).
+
+The successful candidate will work as part of a small interdisciplinary team of bioinformaticians and data curators. Tasks will include development of the existing database, developing connections to collaborating databases, improving the user experience (interface development) and implementation of novel analysis and visualization tools for comparative genomics. The Postdoctoral Scholar will be provided with training opportunities and will attend conferences to present/train users on these new tools. In addition, publications on innovative software solutions will result from this work.
+
+The Plant Computational Genomics laboratory at University of Connecticut (Storrs, CT) has an opening for a database and software developer position as part of a collaborative project involving researchers from around the world. This person will take a lead role in the continued development of the TreeGenes genomics database and the CartograTree application (treegenesdb.org and cartogratree.org). These web-based resources serve vast amounts of genomic, phenotypic, and environmental data to our diverse user community. In specific, the CartograTree application provides a portal for association genetics studies of georeferenced forest trees through the implementation of web services and high performance computing resources available through the iPlant/Cyverse project (http://www.cyverse.org/). In addition, we are committed to developing mechanisms for data sharing among partner databases through Galaxy modules, the Tripal platform (http://www.tripal.info/), the GMOD project, and custom analysis/visualization platforms.
+
 
 I want to be a researcher to take part of the computational revolution taking part in the biological research. 
   Internet related technology space is developing in very rapid phase and life science computational infrastructure should keep up with those Developments. A limitation I realized in computational research is, lots of outstanding algorithms and methods are locked away in research papers, scripts archived in zip files or github repositories. For some researchers to use those findings, they have to install, configure and setup the methodology by them self. This has been a limiting factors because it takes far too much time and knowledge and resourses might not available for everyone. Amazon web services somewhat address these issues, but still the amount of work to be done to get something up and running is very large. The obvious next step has been taken by cyVerse.org is the step in right direction. Implementation of the algorithms can be accesible as a cyVerse app, where uses can make use of the high performance computing resources without the overhead of managing them. 
