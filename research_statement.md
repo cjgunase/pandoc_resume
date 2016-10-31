@@ -53,6 +53,9 @@ Conclusion:  Two web portals were developed to facilitate utilization of TF-Clus
 Future Research
 ------------------------
 
+Development of bioinformatics web based applications is utmost importance because the complexy and computatioan demand a typical bioinformatics data analsys takes.
+
+
 
 Biology/Bioinformatics experience is essential as well as previous experience with web/database development. The applicant should have strong knowledge of Java and JavaScript (jQuery). Experience with Linux/Unix, scripting languages (Python), and relational databases.
 
