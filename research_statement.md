@@ -11,7 +11,8 @@ Research Statement for Chathura Gunasekara
 Introduction
 ------------
 
-  The rapid increase of genotype and phenotype data have created a need for efficient technologies in moving, storing, analysing and representing them in meaningfull way. Specially with the advent of whole genome approach creates data and we need store and analyse them with computatioanl framworks. My research interest have been revolving around developing computational infrastructure in terms of algorithmic developmetn, web application development and apply and devlop machine learning algorithms. The web applications were developed under the umbrella of plant biology and each web application used different type of data available to the plant biologist. Before starting my PhD, while in Sri Lanka, I worked on a research project to integrate sensor information from coastal transponders around the country to display and visualized on a centalized map. I have used GoogleMap api and other open source GIS applications such as OpenCPN to display realtime sensor information gathered over a wide area network.
+  The rapid increase of genotype and phenotype data have created a need for efficient technologies in moving, storing, analysing and representing them in meaningfull way. Specially with the advent of whole genome approach creates data and we need store and analyse them with computatioanl framworks. My research interest have been revolving around developing computational infrastructure in terms of algorithmic developmetn, web application development and apply and devlop machine learning algorithms. The web applications were developed under the umbrella of plant biology and each web application used different type of data available to the plant biologist. Before starting my PhD, while in Sri Lanka, I worked on a research project to integrate sensor information from coastal transponders around the country to display and visualized on a centalized map. I have used GoogleMap api and other open source GIS applications such as OpenCPN to display realtime sensor information gathered over a wide area network. perl, php, R, LAMP stack,C++, perl, html,css,javascript,
+javascript(Jquery), perl, html,css
   
 
 Description of Research projects
@@ -22,9 +23,13 @@ Description of Research projects
 We developed and published a web application called Pop’s Pipes to facilitate preprocessing and analysis of substantial poplar gene expression data. The input data can be spatio- temporal microarray and RNA-seq data from comparable tissues, time points, or treatment-vs-control conditions.This web-based application of Pop’s Pipes includes five software pipelines for ana- lyzing both microarray and RNA-seq data: (1) differen- tially expressed gene (DEG) pipeline for the identification of DEGs for each comparison. A comparison, hereafter, is defined as two groups of gene expression data sets from two comparable tissues, two time points, or two experi- mental conditions; (2) gene ontology (GO) pipeline for performing GO enrichment analysis with the DEGs from each comparison as input; (3) domain pipeline for identi- fying enriched protein domains in the DEGs; (4) pathway pipeline for identifying the enriched metabolic pathways using all DEGs; and (5) GO tree construction pipeline for building any three types of hierarchical gene ontology trees—biological processes, molecular function, and cel- lulose component.
 
 
+
+
 ### ExactSearch: A Fast Motif Search tool[^2]
 
 In this study, we developed a web portal that enables plant molecular biologists to search for DNA motifs especially degenerate ones in custom sequences or the flanking regions of all genes in the 50 plant species whose genomes have been sequenced. A web tool like this is demanded to meet a variety of needs of plant biologists for identifying the potential gene regulatory relationships. We implemented a suffix tree algorithm to accelerate the searching process of a group of motifs in a multitude of target genes. The motifs to be searched can be in the degenerate bases in addition to adenine (A), cytosine (C), guanine (G), and thymine (T). The target sequences to be searched can be custom sequences or the selected proximal gene sequences from any one of the 50 sequenced plant species. The web portal also contains the functionality to facilitate the search of motifs that are represented by position probability matrix in above-mentioned species. Currently, the algorithm can accomplish an exhaust search of 100 motifs in 35,000 target sequences of 2 kb long in 4.2 min. However, the runtime may change in the future depending on the space availability, number of running jobs, network traffic, data loading, and output packing and delivery through electronic mailing.
+
+
 
 ### Web application for Targeting Small RNAs for Destruction in Crops by Short Tandem Target Mimic (STTM)[^3]
 
@@ -38,6 +43,7 @@ Finally, we will develop a genome browser for RNA-seq and Ribo-seq of wild-type 
 
 Technological approaches for the above objective include the standard Linux server, the open-source database server MySQL and the Apache web server. MySQL will be used as the back-end database and Apache will be integrated to create HTML pages to deliver requested web contents back to the users’ browsers. The web application will use PHP for server-side business logic, HTML for content presentation, cascading style sheets (CSS) for formatting, and JavaScript for dynamic client-side behavior. 
 
+
 ### TF - mining Pipelines for gene expression data
 Background:  Although molecular biologists often need to learn which transcription factors (TFs) control a biological pathway, process or complex trait, there are few tools available to aid them to accomplish such a task. 
 
@@ -48,12 +54,14 @@ Conclusion:  Two web portals were developed to facilitate utilization of TF-Clus
 ### TF - Miner partial least squares based Gene selection and Gene regulatory network inference
 
 
-
-
-Future Research
+Possible ruture research path
 ------------------------
 
-Development of bioinformatics web based applications is utmost importance because the complexy and computatioan demand a typical bioinformatics data analsys takes.
+
+After reading the posting about the postdoc position, I strongly believe my past experience in bioinformatics web development and analysis pipelines I will be a suitable candidate for this position. I read the paper "CartograTree: Enabling Landscape Genomics for Forest Trees",CartograTree: connecting tree genomes, phenotypes and environment. 
+
+Drupal(Tripal) interface to manage the content with cyVerse as the backbone computing engine. connect to treegeneDB store data collected from scientists. http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12067/full
+
 
 
 
