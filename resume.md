@@ -61,7 +61,7 @@ _Completed projects_
 
 **Software Engineer/Research Engineer : 2010 - 2013**
 
-I Worked on a [research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing and Sri Lanka Navy.
+I Worked on a [research project](http://www.vidusayura.org/?page_id=2) with University of Colombo School of Computing, Sri Lanka.
 
 
 * Develop algorithms and implemented using Java and web based technologies for a Survailance platfrom to fuse data gathered from multiple transponders situated around Sri Lanken coast line  over large local area network. [[Publication]](http://www.icter.org/conference/icter2012/paper/50)
